@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(12, 129, 231);
+    color: black;
+    font-family:"Super Mario Bros. 2";
+    font-size: 20px;
+    background-image: url('../images/pinkheartbackground.jpg');
+    /* comment! */
+    text-align: center;
+}
+
+section {
+    background-color: lightcoral;
+    margin: auto 10%;
+    padding: -10px;
+    border-color: maroon;
+    border-style: dotted;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+form {
+    background-color: firebrick;
+    color: beige;
+
+}
+
+h1 {
+    font-size: 48px;
+    margin-top: -100px;
+
+}
+
+em {
+    font-family: sans-serif;
+    font-style: normal;
+    font-size:80px;
+}
+
+.css {
+    color: beige;
+}
+
+.html {
+    color: pink
+}
+
+fieldset {
+    border-style: dotted;
+    border-color: dotted;
+}
+
+button{
+    font-family:sans-serif;
+    font-size:24px;
+    font-style: normal;
+    color: maroon;
+    background-color: beige;
+    border-radius: 5px;
+    padding: 3px;
+}
+
